@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-semrush-domain-metrics": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-semrush-domain-metrics"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}

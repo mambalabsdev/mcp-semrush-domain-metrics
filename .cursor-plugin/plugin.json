@@ -1,0 +1,35 @@
+{
+  "name": "mcp-semrush-domain-metrics",
+  "displayName": "Semrush Domain Metrics",
+  "version": "1.0.0",
+  "description": "MCP server for Semrush Domain Metrics: public traffic and authority metrics per domain.",
+  "author": {
+    "name": "Mamba Labs",
+    "email": "labs@mambamindsetgrowth.com"
+  },
+  "homepage": "https://mambabuilt.com",
+  "repository": "https://github.com/mambalabsdev/mcp-semrush-domain-metrics",
+  "license": "MIT",
+  "category": "productivity",
+  "tags": [
+    "semrush",
+    "seo",
+    "domain-authority",
+    "traffic",
+    "backlinks",
+    "apify",
+    "mcp"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "semrush",
+    "seo",
+    "domain-authority",
+    "traffic",
+    "backlinks",
+    "apify",
+    "mcp"
+  ],
+  "mcpServers": ".mcp.json"
+}
