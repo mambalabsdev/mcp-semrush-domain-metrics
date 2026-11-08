@@ -87,7 +87,7 @@ Pay per event on Apify, billed to your Apify account. Prices in USD.
 | Event | Free plan | Bronze | Silver | Gold |
 |---|---|---|---|---|
 | `domain-row`, one domain with metrics | $0.01 | $0.0095 | $0.009 | $0.0085 |
-| `no-page-row`, one domain with no Semrush page | $0.001 | $0.00095 | $0.0009 | $0.00085 |
+| `no-page-row`, one domain with no Semrush page | $0.0025 | $0.002375 | $0.00225 | $0.002125 |
 | `apify-actor-start`, per run start | $0.002 | $0.002 | $0.002 | $0.002 |
 
 Summaries, refused reads, and refused input are free. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
